@@ -1,0 +1,493 @@
+    1  printenv > /tmp/tmp-7987eP79BbQuSMHUtxt
+    2  /bin/python3 /home/mahetab/python_works/fastApi/not1.py
+    3  pip install scipy
+    4  /bin/python3 /home/mahetab/python_works/fastApi/not1.py
+    5  cls
+    6  cls() exit()
+    7  clear
+    8  sudo dpkg -i code_1.70.2-1660629410_amd64.deb
+    9  code.
+   10  code
+   11  python
+   12  python3
+   13  code
+   14  pip install numpy
+   15  sudo apt install python3-pip
+   16  pip install numpy
+   17  pip freez
+   18  pip freeze
+   19  python
+   20  py
+   21  pip install pandas
+   22  sudo snap install postman
+   23  py -3 -m venv
+   24  sudo install pythonpy
+   25  sudo apt install pythonpy
+   26  py -3 -m venv
+   27  python -3 -m venv
+   28  python3 -3 -m venv
+   29  python3 -3 -h venv
+   30  sudo apt install python3-venv
+   31  python3 -m venv my-project-env
+   32  source my-project-env/bin/activate
+   33  pip install "fastapi[all]"
+   34  pip freeze
+   35  unicorn main:app
+   36  uvicorn main:app
+   37  uvicorn main:app --reload
+   38  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+   39  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+   40  sudo apt-get update
+   41  sudo apt-get -y install postgresql
+   42  postgresql --version
+   43  sudo apt-get install postgresql-12 
+   44  sudo systemctl is-active postgresql
+   45  sudo systemctl is-enabled postgresql
+   46  sudo systemctl status postgresql
+   47  sudo pg_isready
+   48  sudo su - postgres
+   49  sudo -u postgres psql
+   50  psql -U postgres -h localhost
+   51  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+   52  sudo apt  install curl  # version 7.81.0-1ubuntu1.3
+   53  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+   54  sudo apt install pgadmin4
+   55  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+   56  sudo apt install pgadmin4-web
+   57  psql -U postgres -h localhost
+   58  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+   59  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+   60  sudo apt install pgadmin4
+   61  sudo /usr/pgadmin4/bin/setup-web.sh
+   62  y
+   63  sudo /usr/pgadmin4/bin/setup-web.sh
+   64  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   65  pip install psycopg2
+   66  pip install psycopg2-binary
+   67  uvicorn main:app --reload
+   68  source my-project-env/bin/activate
+   69  uvicorn main:app --reload
+   70  uvicorn app.main:app --reload
+   71  sudo apt update install
+   72  sudo apt-get update
+   73  sudo apt-get dist-upgrade
+   74  uvicorn app.main:app --reload
+   75  source my-project-env/bin/activate
+   76  uvicorn app.main:app --reload
+   77  sudo apt update
+   78  sudo apt install libdvdnav4 gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly libdvd-pkg -y
+   79  sudo dpkg-reconfigure libdvd-pkg
+   80  sudo apt install ubuntu-restricted-extras
+   81  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   82  source my-project-env/bin/activate
+   83  pip install sqlalchemy
+   84  uvicorn app.main:app --reload
+   85  source my-project-env/bin/activate
+   86  uvicorn app.main:app --reload
+   87  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   88  uvicorn app.main:app --reload
+   89  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   90  uvicorn app.main:app --reload
+   91  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   92  uvicorn app.main:app --reload
+   93  sudo snap install vlc
+   94  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   95  uvicorn app.main:app --reload
+   96  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   97  uvicorn app.main:app --reload
+   98  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+   99  pip freeze
+  100  pip install email-validator
+  101  pip install passlib[bcrypt]
+  102  pip freeze
+  103  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  104  uvicorn app.main:app --reload
+  105  pip install python-jose[cryptography]
+  106  pip freeze
+  107  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  108  pip install python-jose[cryptography]
+  109  pip freeze
+  110  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  111  uvicorn app.main:app --reload
+  112  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  113  uvicorn app.main:app --reload
+  114  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  115  uvicorn app.main:app --reload
+  116  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  117  uvicorn app.main:app --reload
+  118  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  119  uvicorn app.main:app --reload
+  120  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  121  uvicorn app.main:app --reload
+  122  sudo apt update
+  123  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  124  uvicorn app.main:app --reload
+  125  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  126  pip install python-dotenv
+  127  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  128  uvicorn app.main:app --reload
+  129  echo "$path"
+  130  echo "$PATH"
+  131  echo "$HOME"
+  132  echo "$home"
+  133  export password=Mahet@b2
+  134  echo "$password"
+  135  echo "$PASSWORD"
+  136  echo "$DATABASE_PASSWORD"
+  137  export PASSWORD=Mahet@b2
+  138  echo "$PASSWORD"
+  139  export PASS=1234
+  140  echo "$PASS"
+  141  clear
+  142  pythone
+  143  python
+  144  clear
+  145  python3
+  146  clear
+  147  pip install python-dotenv
+  148  clear
+  149  python3
+  150  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  151  uvicorn app.main:app --reload
+  152  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  153  uvicorn app.main:app --reload
+  154  bash Anaconda3-2022.05-Linux-x86_64.sh
+  155  conda install scikit-learn-intelex
+  156  bash Anaconda3-2022.05-Linux-x86_64.sh
+  157  eval "$(/home/mahetab/anaconda3/bin/conda shell.YOUR_SHELL_NAME hook)" 
+  158  anaconda3-navigator
+  159  anaconda3
+  160  conda
+  161  anaconda-navigator
+  162  conda init
+  163  eval "$(/home/mahetab/anaconda3/bin/conda shell.YOUR_SHELL_NAME hook)" 
+  164  anaconda-navigator
+  165  bash Anaconda3-2022.05-Linux-x86_64.sh
+  166  eurotrucks2
+  167  anaconda-navigator
+  168  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  169  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  170  python3
+  171  sudo apt install build-essential
+  172  anaconda-navigator
+  173  python3
+  174  anaconda-navigator
+  175  touch Ex1.2
+  176  touch queue
+  177  touch stack
+  178  sudo apt-get install wine
+  179  wine devcpp.exe
+  180  wine ss.exe
+  181  wine devcpp.exe
+  182  sudo apt-get install eclipse eclipse-cdt g++ 
+  183  anaconda-navigator
+  184  touch ex1.3
+  185  sudo snap install google-docs
+  186  sudo snap uninstall google-docs
+  187  snap help
+  188  sudo snap remove google-docs
+  189  anaconda-navigator
+  190  sudo apt install rstudio-2022.07.2-576-amd64.deb
+  191  r
+  192  sudo apt install rstudio-2022.07.2-576-amd64.deb
+  193  sudo apt-get install r-base
+  194  sudo apt-get install gdebi-core
+  195  wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2022.07.2-576-amd64.deb
+  196  sudo gdebi rstudio-server-2022.07.2-576-amd64.deb
+  197  anaconda-navigator
+  198  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.02.2-485-amd64.deb
+  199  sudo apt install -f ./rstudio-2022.02.2-485-amd64.deb
+  200  sudo apt-get install libssl1.1
+  201  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.02.2-485-amd64.deb
+  202  sudo apt install rstudio-2022.07.2-576-amd64.deb
+  203  touch note
+  204  anaconda-navigator
+  205  df
+  206  df -m
+  207  df -Th
+  208  fdisc -l
+  209  clear
+  210  fdisk -l
+  211  clear
+  212  vi aa.sh
+  213  bash aa.sh
+  214  cd ../..
+  215  history
+  216  uptime
+  217  ls -r
+  218  cd ~
+  219  anaconda-navigator
+  220  touch first.js
+  221  node first.js
+  222  cat first
+  223  cat first.js
+  224  neno first.js
+  225  nano first.js
+  226  node first.js
+  227  clear
+  228  node first.js
+  229  npm -v
+  230  npm install -g express 
+  231  npm install express 
+  232  npm init
+  233  [200~D:\>npm adduser
+  234  npm adduser
+  235  touch MyModule.js
+  236  touch TestModule.js
+  237  node TestModule.js
+  238  npm install npm -g
+  239  npm install npm 
+  240  cd myApp
+  241  npm audit
+  242  cd ..
+  243  cd..
+  244  pwd
+  245  sudo apt install nodejs -y
+  246  sudo apt install npm -y
+  247  nodejs --version
+  248  npm --version
+  249  nvm -v
+  250  npm --version
+  251  touch tp
+  252  touch caculator.js
+  253  node calculator
+  254  node calculator.js
+  255  clear
+  256  ls
+  257  touch tester.js
+  258  node tester.js
+  259  clear
+  260  node tester.js
+  261  clear
+  262  node tester.js
+  263  clear
+  264  node tester.js
+  265  clear
+  266  node tester.js
+  267  clear
+  268  node tester.js
+  269  clear
+  270  node tester.js
+  271  clear
+  272  node tester.js
+  273  clear
+  274  node tester.js
+  275  clear
+  276  node tester.js
+  277  clear
+  278  node tester.js
+  279  npm install nodemon -g
+  280  sudo npm install nodemon -g
+  281  node httpserver.js
+  282  nodemon httpserver.js
+  283  cd myApp
+  284  nodemon httpserver.js
+  285  nodemon demo.js
+  286  node demo.js
+  287  node httpserver.js
+  288  node app.js
+  289  node httpserver.js
+  290  clear
+  291  node tester.js
+  292  clear
+  293  node tester.js
+  294  clear
+  295  node tester.js
+  296  node httpserver
+  297  cd myApp
+  298  node httpserver
+  299  [200~npm install nodemon -g
+  300  ~npm install nodemon -g
+  301  npm install nodemon -g
+  302  npm install nodemon 
+  303  nodemon httpserver.js
+  304  npm nodemon -g
+  305  npm install nodemon -g
+  306  nodemon httpserver.js
+  307  node httpserver.js
+  308  node [200~const fs = require('fs');
+  309  const { promisify } = require('util');
+  310  const writeFile = promisify(fs.writeFile);
+  311  (async () => {
+  312  })();
+  313  node fliesystem.js
+  314  node flieSystem.js
+  315  node fileSystem.js
+  316  cd myApp
+  317  node fileSystem.js
+  318  node .\log.js
+  319  node ./log.js
+  320  node fileSystem.js
+  321  express yourApp
+  322  cd yourapp
+  323  cd yourApp
+  324  eslint --init
+  325  npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react --save-dev
+  326  node app.js
+  327  clear
+  328  cd myApp
+  329  node app.js
+  330  cd "/home/mahetab/Documents/cpp"
+  331  ./"c1" 
+  332  cd "/home/mahetab/Documents/cpp"
+  333  ./"c1" 
+  334  cd "/home/mahetab/Documents/cpp"
+  335  ./"c1" 
+  336  cd "/home/mahetab/Documents/cpp"
+  337  ./"knapscap" 
+  338  cd "/home/mahetab/Documents/cpp"
+  339  ./"knapscap" 
+  340  cd "/home/mahetab/Documents/cpp"
+  341  ./"knapscap" 
+  342  sudo apt install build-essential
+  343  g++ --version
+  344  cd yourApp
+  345  npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react --save-dev
+  346  node -v
+  347  touch file.txt
+  348  nano file.txt
+  349  cat file.txt
+  350  anaconda-navigator
+  351  cd "/home/mahetab/Documents/UIC/DAA/LAB"
+  352  ./"quickSort" 
+  353  code .
+  354  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.02.2-485-amd64.deb
+  355  sudo apt install -f ./rstudio-2022.02.2-485-amd64.deb
+  356  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.02.2-485-amd64.deb
+  357  sudo apt install -f ./rstudio-2022.02.2-485-amd64.deb
+  358  sudo apt install ./rstudio-2022.02.2-485-amd64.deb
+  359  wget http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1l-1ubuntu1.2_amd64.deb
+  360  sudo apt-get install ./libssl1.1_1.1.1l-1ubuntu1.2_amd64.deb
+  361  anaconda-navigator
+  362  ls
+  363  sudo apt install rstudio-2022.02.2-485-amd64.deb
+  364  sudo apt install rstudio-2022.02.2-485-amd64.deb.1
+  365  sudo apt install rstudio-2022.02.2-485-amd64.deb
+  366  rm rstudio-2022.02.2-485-amd64.deb
+  367  rm rstudio-2022.02.2-485-amd64.deb.1
+  368  rm rstudio-2022.02.2-485-amd64.deb.2
+  369  rm rstudio-2022.02.2-485-amd64.deb.3
+  370  ls
+  371  uvicorn main:app --reload
+  372  uvicorn app.main:app --reload
+  373  cd app
+  374  uvicorn app.main:app --reload
+  375  cd ..
+  376  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  377  uvicorn app.main:app --reload
+  378  touch ex7
+  379  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  380  alembic --help
+  381  pip install alembic
+  382  alembic --help
+  383  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  384  uvicorn app.main:app --reload
+  385  alembic init alembic
+  386  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  387  alembic revision -m "create posts table"
+  388  alembic upgrade 4d9b397d8fd0
+  389  alembic revision -m "creat users table"
+  390  alembic upgrade head
+  391  alembic revision -m "add foreign-key to posts table"
+  392  alembic head
+  393  alembic heads
+  394  alembic upgrade head
+  395  alembic revision -m "add few column to posts table"
+  396  alembic upgrade +1
+  397  alembic revision --autogenerate -m "auto-vote"
+  398  alembic upgrade +1
+  399  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  400  sudo apt-get install git
+  401  git --version
+  402  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  403  heroku --version
+  404  sudo snap install heroku --classic
+  405  heroku --version
+  406  heroku login
+  407  uvicorn app.main:app --reload
+  408  pip freez > requirement.txt
+  409  pip freeze > requirement.txt
+  410  pip freeze
+  411  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  412  pip freeze > requirement.txt
+  413  git init
+  414  git add all
+  415  git add --all
+  416  git commit -m "initial commit"
+  417  git config --global user.email mahetabalam421@gmail.com
+  418  git config --global user.name mahetab
+  419  git commit -m "initial commit"
+  420  git branch -M main
+  421  git remote add origin https://github.com/mahetab2120/fastapi_demo.git
+  422  git push -u origin main
+  423  psql --version
+  424  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  425  uvicorn app.main:app --reload
+  426  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  427  heroku login
+  428  heroku create fastapi-ma2120
+  429  git remote
+  430  git push heroku main
+  431  git push heroku fastapi-ma2120:main
+  432  git push heroku fastapi-ma4110:main
+  433  git push heroku head:main
+  434  git push heroku fastapi_demo:main
+  435  git push heroku main:main
+  436  git commit -m "initial upgrade"
+  437  git add .gitignore
+  438  git commit -m "initial add .gitignore"
+  439  git branch -M main
+  440  git remote add origin https://github.com/mahetab2120/fastapi_demo.git
+  441  git push -u origin main
+  442  git add --all
+  443  git commit -m "initial add procfile"
+  444  git push -u origin main
+  445  git push heroku main
+  446  git remote -v
+  447  git push heroku master
+  448  heroku create fastapi-ma2120 --buildpack heroku/python
+  449  heroku create fastapi-ma4110 --buildpack heroku/python
+  450  git push heroku main
+  451  heroku log --t
+  452  heroku help
+  453  heroku logs help
+  454  heroku logs --t
+  455  heroku logs -t
+  456  su -
+  457  clear
+  458  sudo su -
+  459  anaconda-navigator
+  460  r --version
+  461  R --version
+  462  clear
+  463  sudo su -
+  464  sudo apt install rstudio-2022.07.2-576-amd64.deb
+  465  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  466  source /home/mahetab/python_works/fastApi/my-project-env/bin/activate
+  467  R
+  468  R -version
+  469  clear
+  470  R --version
+  471  anaconda-navigator
+  472  anaconda-navigator
+  473  vi abc
+  474  ls
+  475  cat abc
+  476  rm abc
+  477  ls
+  478  clear
+  479  software-properties-gtk
+  480  sudo apt clean
+  481  sudo apt autoclean
+  482  sudo apt autoremove
+  483  sudo 
+  484  clear
+  485  lsb_release -a
+  486  ls
+  487  cd Document
+  488  cd Documents
+  489  cd cpp
+  490  vi ss.c
+  491  gcc ss.c
+  492  c -o ss.exe
+  493  history > hist.txt
